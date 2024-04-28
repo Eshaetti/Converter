@@ -1,0 +1,17 @@
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\bin\Release\net8.0-windows\RetnPathConverter.exe
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\bin\Release\net8.0-windows\RetnPathConverter.deps.json
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\bin\Release\net8.0-windows\RetnPathConverter.runtimeconfig.json
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\bin\Release\net8.0-windows\RetnPathConverter.dll
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\bin\Release\net8.0-windows\RetnPathConverter.pdb
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\RetnPathConverter.MainForm.resources
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\RetnPathConverter.csproj.GenerateResource.cache
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\RetnPathConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\RetnPathConverter.AssemblyInfoInputs.cache
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\RetnPathConverter.AssemblyInfo.cs
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\RetnPathConverter.csproj.CoreCompileInputs.cache
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\RetnPathConverter.dll
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\refint\RetnPathConverter.dll
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\RetnPathConverter.pdb
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\RetnPathConverter.genruntimeconfig.cache
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\ref\RetnPathConverter.dll
+C:\Users\luand\OneDrive\Bureau\Retn\Path Converter\obj\Release\net8.0-windows\RetnPathConverter.sourcelink.json

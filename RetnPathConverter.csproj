@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>retn.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="retn.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Converter\**" />
+    <Compile Remove="readme-exemple\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="Converter\**" />
+    <EmbeddedResource Remove="readme-exemple\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Converter\**" />
+    <None Remove="readme-exemple\**" />
+    <None Remove="FlatyCreator.zip" />
+  </ItemGroup>
+
+</Project>
